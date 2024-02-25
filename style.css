@@ -9,7 +9,7 @@
 
 .box {
     background-color: yellow;
-    background-image: url(/IMG/wallpaper.jpg);
+    background-image: url(./IMG/wallpaper.jpg);
     width: 235px;
     height: 490px;
     position: absolute;
