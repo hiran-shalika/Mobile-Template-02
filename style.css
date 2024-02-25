@@ -1,0 +1,352 @@
+.mainbox {
+    width: 500px;
+    height: 1000px;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.box {
+    background-color: yellow;
+    background-image: url(/IMG/wallpaper.jpg);
+    width: 235px;
+    height: 490px;
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 130px;
+    border-radius: 30px;
+}
+
+.phonetemp {
+    margin-left: -85px;
+    position: absolute;
+    margin-top: -60px;
+}
+
+.btmbar {
+    width: 80px;
+    height: 7px;
+    background-color: rgb(79, 73, 73);
+    margin-top: 445px;
+    border-radius: 10px;
+    margin-left: 80px;
+    position: fixed;
+}
+
+.time {
+    margin-top: 13px;
+    margin-left: 21px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+}
+
+.batteryicon {
+    width: 15px;
+    height: 12px;
+    position: absolute;
+    margin-left: 204px;
+    margin-top: -14px;
+}
+
+.signalicon {
+    width: 15px;
+    height: 13px;
+    margin-left: 189px;
+    position: absolute;
+    margin-top: -14px;
+}
+
+.frontspeaker{
+    width: 50px;
+    height: 5px;
+    background-color: white;
+    position: absolute;
+    border-radius: 50px;
+    margin-left: 80px;
+    margin-top: -15px;
+}
+
+.sensor{
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    position: absolute;
+    border-radius: 100px;
+    margin-left: 135px;
+    margin-top: -18px;
+}
+
+.camera{
+    width: 14px;
+    height: 14px;
+    background-color: white;
+    position: absolute;
+    border-radius: 100px;
+    margin-left: 152px;
+    margin-top: -20px;
+}
+
+.googlesearchbar{
+    width: 197px;
+    height: 30px;
+    background-color: black;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+.text1{
+    color: white;
+    position: relative;
+    margin-left: 12px;
+    margin-top: 6px;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.homeicon1{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    margin-left: 23px;
+    margin-top: 395px;
+    border-radius: 10px;
+}
+
+.homeicon2{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    margin-left: 75px;
+    margin-top: 395px;
+    border-radius: 10px;
+}
+
+.homeicon3{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    margin-left: 127px;
+    margin-top: 395px;
+    border-radius: 10px;
+}
+
+.homeicon4{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    margin-left: 179px;
+    margin-top: 395px;
+    border-radius: 10px;
+}
+
+.dot1{
+    width: 4px;
+    height: 4px;
+    background-color: white;
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 38px;
+    border-radius: 20px;
+}
+
+.dot2{
+    width: 4px;
+    height: 4px;
+    background-color: white;
+    position: absolute;
+    margin-left: 187px;
+    margin-top: 38px;
+    border-radius: 20px;
+}
+
+.dot3{
+    width: 4px;
+    height: 4px;
+    background-color: white;
+    position: absolute;
+    margin-left: 194px;
+    margin-top: 38px;
+    border-radius: 20px;
+}
+
+.dot4{
+    width: 4px;
+    height: 4px;
+    background-color: white;
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 45px;
+    border-radius: 20px;
+}
+
+.dot5{
+    width: 4px;
+    height: 4px;
+    background-color: white;
+    position: absolute;
+    margin-left: 187px;
+    margin-top: 45px;
+    border-radius: 20px;
+}
+
+.dot6{
+    width: 4px;
+    height: 4px;
+    background-color: white;
+    position: absolute;
+    margin-left: 194px;
+    margin-top: 45px;
+    border-radius: 20px;
+}
+
+.icon1{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    margin-left: 23px;
+    margin-top: 310px;
+    border-radius: 10px;
+}
+
+.icon2{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    margin-left: 75px;
+    margin-top: 310px;
+    border-radius: 10px;
+}
+
+.icon3{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    margin-left: 127px;
+    margin-top: 310px;
+    border-radius: 10px;
+}
+
+.icon4{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    margin-left: 179px;
+    margin-top: 310px;
+    border-radius: 10px;
+}
+
+.icon5{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    margin-left: 23px;
+    margin-top: 257px;
+    border-radius: 10px;
+}
+
+.icon6{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    margin-left: 75px;
+    margin-top: 257px;
+    border-radius: 10px;
+}
+
+.icon7{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    margin-left: 127px;
+    margin-top: 257px;
+    border-radius: 10px;
+}
+
+.icon8{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    margin-left: 179px;
+    margin-top: 257px;
+    border-radius: 10px;
+}
+
+.scrolldot1{
+    width: 6px;
+    height: 6px;
+    background-color: black;
+    position: absolute;
+    margin-left: 118px;
+    margin-top: 365px;
+    border-radius: 20px;
+}
+
+/*
+@media screen and (max-width:440px) {
+.box{
+    background-color: yellow;
+    width: 235px;
+    height: 490px;
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 115px;
+    border-radius: 30px;
+}
+
+.phonetemp{
+    margin-left: -85px;
+    position: absolute;
+    margin-top: -60px;
+}
+
+.btmbar{
+    width: 80px;
+    height: 7px;
+    background-color: rgb(199, 199, 209);
+    margin-top: 445px;
+    border-radius: 10px;
+    margin-left: 80px;
+    position: fixed;
+}
+
+.time{
+    margin-top: 13px;
+    margin-left: 21px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+}
+
+.batteryicon{
+    width: 15px;
+    height: 12px;
+    position: absolute;
+    margin-left: 204px;
+    margin-top: -14px;
+}
+
+.signalicon{
+    width: 15px;
+    height: 13px;
+    margin-left: 189px;
+    position: absolute;
+    margin-top: -14px;
+}
+}
+
+*/
